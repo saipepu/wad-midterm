@@ -80,7 +80,7 @@ function App() {
 
   return (
     <Container maxWidth="lg">
-      <Grid container spacing={2}>
+      <Grid container spacing={2} marginTop={2}>
         <Grid item xs={12} md={4}>
           <Box sx={{ backgroundColor: "#e4e4e4", p: 2 }}>
             <Box sx={{ mb: 2 }}>
